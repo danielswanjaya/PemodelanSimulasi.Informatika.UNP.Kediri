@@ -1,0 +1,21 @@
+No;Jenis Usaha;Lama Usaha;Jaminan;Riwayat Kredit;Keputusan
+01;Kuliner;< 1 thn;Tidak Ada;Baik;Ditolak
+02;Dagang;1-3 thn;Ada;Baik;Disetujui
+03;Jasa;> 3 thn;Ada;Baik;Disetujui
+04;Kuliner;1-3 thn;Tidak Ada;Buruk;Ditolak
+05;Produksi;> 3 thn;Ada;Baik;Disetujui
+06;Dagang;< 1 thn;Tidak Ada;Baik;Ditolak
+07;Jasa;1-3 thn;Ada;Buruk;Ditolak
+08;Kuliner;> 3 thn;Ada;Baik;Disetujui
+09;Dagang;1-3 thn;Tidak Ada;Baik;Disetujui
+10;Produksi;< 1 thn;Ada;Baik;Disetujui
+11;Jasa;> 3 thn;Tidak Ada;Buruk;Ditolak
+12;Kuliner;1-3 thn;Ada;Baik;Disetujui
+13;Dagang;> 3 thn;Ada;Baik;Disetujui
+14;Jasa;< 1 thn;Tidak Ada;Baik;Ditolak
+15;Produksi;1-3 thn;Tidak Ada;Buruk;Ditolak
+16;Kuliner;> 3 thn;Tidak Ada;Baik;Disetujui
+17;Dagang;< 1 thn;Ada;Buruk;Ditolak
+18;Jasa;1-3 thn;Ada;Baik;Disetujui
+19;Produksi;> 3 thn;Tidak Ada;Baik;Disetujui
+20;Kuliner;< 1 thn;Ada;Baik;Disetujui
